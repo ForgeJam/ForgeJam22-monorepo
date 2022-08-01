@@ -1,0 +1,48 @@
+[submodule "repurposed-livings"]
+	path = repurposed-livings
+	url = https://github.com/ForgeJam/jam22-repurposed-livings
+[submodule "Antsportation"]
+	path = Antsportation
+	url = https://github.com/ForgeJam/jam22-Antsportation
+[submodule "ItemArrowMod"]
+	path = ItemArrowMod
+	url = https://github.com/ForgeJam/jam22-ItemArrowMod
+[submodule "RailgunTransport"]
+	path = RailgunTransport
+	url = https://github.com/ForgeJam/jam22-RailgunTransport
+[submodule "hoppers"]
+	path = hoppers
+	url = https://github.com/ForgeJam/jam22-hoppers
+[submodule "Sculk-Extras"]
+	path = Sculk-Extras
+	url = https://github.com/ForgeJam/jam22-Sculk-Extras
+[submodule "ItemSubs"]
+	path = ItemSubs
+	url = https://github.com/ForgeJam/jam22-ItemSubs
+[submodule "DeepMagic"]
+	path = DeepMagic
+	url = https://github.com/ForgeJam/jam22-DeepMagic
+[submodule "pipeless"]
+	path = pipeless
+	url = https://github.com/ForgeJam/jam22-pipeless
+[submodule "AdvancedCaravans"]
+	path = AdvancedCaravans
+	url = https://github.com/ForgeJam/jam22-AdvancedCaravans
+[submodule "stickypets"]
+	path = stickypets
+	url = https://github.com/ForgeJam/jam22-stickypets
+[submodule "DonkeyTransportInc"]
+	path = DonkeyTransportInc
+	url = https://github.com/ForgeJam/jam22-DonkeyTransportInc
+[submodule "lesslazyitems"]
+	path = lesslazyitems
+	url = https://github.com/ForgeJam/jam22-lesslazyitems
+[submodule "SculkTransporting"]
+	path = SculkTransporting
+	url = https://github.com/ForgeJam/jam22-SculkTransporting
+[submodule "PostalPigeons"]
+	path = PostalPigeons
+	url = https://github.com/ForgeJam/jam22-PostalPigeons
+[submodule "Living-Items"]
+	path = Living-Items
+	url = https://github.com/ForgeJam/jam22-Living-Items
