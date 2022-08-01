@@ -17,6 +17,9 @@ their contents until judging finishes.
 > After ForgeJam22, these repositories will be archived to preserve their state as of submission, while allowing authors to
 > continue development on their original repository. For concerns, please contact @TheCurle and the Forge Team.
 
+After cloning this repository, run `git submodule update --init --recursive` to initialize the submodules containing each submission.
+Then open each directory as a project in your IDE of choice.
+
 ## Submissions
 
 - [Advanced Caravans](https://github.com/ForgeJam/jam22-AdvancedCaravans)
