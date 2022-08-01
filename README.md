@@ -29,6 +29,7 @@ Then open each directory as a project in your IDE of choice.
 - [Donkey Transport Inc.](https://github.com/ForgeJam/jam22-DonkeyTransportInc)
   - [CurseForge page](https://www.curseforge.com/minecraft/mc-mods/donkey-transport-inc)
 - [Hopper](https://github.com/ForgeJam/jam22-hoppers)
+  - [Modrinth page](https://modrinth.com/mod/hopper)
 - [Item Arrows](https://github.com/ForgeJam/jam22-ItemArrowMod)
 - [Item Subs](https://github.com/ForgeJam/jam22-ItemSubs)
 - [Less Lazy Items](https://github.com/ForgeJam/jam22-lesslazyitems)
